@@ -1,0 +1,6 @@
+data/
+/webserver/node_modules
+/csdlnc-frontend
+/webserver/csdlnc-backend/src/main/resources/public
+/webserver/.metadata
+/webserver/openjdk-22.0.1_linux-x64_bin.tar.gz
